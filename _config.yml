@@ -2,10 +2,10 @@ name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
 
-######## FOR LOCAL TEST ############
-# baseurl:
-# url:         http://localhost:4000
 
-######## FOR PUSH TO GITHUB PAGE ##########
+####### For local access with http://localhost:4000/ #######
+# baseurl:     
+
+####### For local access with http://localhost:4000/blog/ #######
+####### For access with http://lightgao.github.io/blog/ #######
 baseurl:     /blog
-# url:         http://lightgao.github.io
