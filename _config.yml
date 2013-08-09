@@ -7,5 +7,8 @@ pygments: true
 # baseurl:     
 
 ####### For local access with http://localhost:4000/blogs/ #######
+# baseurl:     /blogs
+
 ####### For access with http://lightgao.github.io/blogs/ #######
 baseurl:     /blogs
+url:    http://lightgao.github.io
