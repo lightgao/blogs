@@ -6,6 +6,6 @@ pygments: true
 ####### For local access with http://localhost:4000/ #######
 # baseurl:     
 
-####### For local access with http://localhost:4000/blog/ #######
-####### For access with http://lightgao.github.io/blog/ #######
-baseurl:     /blog
+####### For local access with http://localhost:4000/blogs/ #######
+####### For access with http://lightgao.github.io/blogs/ #######
+baseurl:     /blogs
